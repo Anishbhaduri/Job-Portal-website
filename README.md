@@ -78,6 +78,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Anish Bhaduri - [GitHub](https://github.com/)
+Anish Bhaduri - [GitHub](https://github.com/Anishbhaduri)
 
-Project Link: (https://github.com/)
+Project Link: (https://github.com/Anishbhaduri/Job-Portal-website/)
